@@ -1,0 +1,1 @@
+This JavaFX and Java networking-based restaurant app lets customers order food, choose cuisine types, and set a price range. The restaurant can review and confirm orders, ensuring a smooth ordering process.
